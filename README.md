@@ -6,7 +6,7 @@ Welcome to the **Scripts Repository**! This repository contains useful Python, s
 - [About the Repository](#about-the-repository)  
 - [Scripts](#scripts)  
   - [Python Scripts](#python-scripts)  
-  - [Shell Scripts](#shell-scripts)  
+  - [Monitoring Scripts](#shell-scripts)  
   - [E-commerce Script](#e-commerce-script)  
 - [How to Use](#how-to-use)  
 - [License](#license)  
@@ -31,13 +31,13 @@ For more details about this script, visit the [Python Scripts.](python_scripts/r
 
 ---  
 
-### Shell Scripts  
+### Monitoring Scripts  
 The Shell scripts can be found in the `shell_scripts` folder:  
 - **Resource Monitoring Script**:  
   - Monitors CPU, memory, and disk usage.  
   - Sends email alerts if usage exceeds predefined thresholds.  
 
-For more details about this script, visit the [Shell Script.](shell_scripts/vm_monitoring).  
+For more details about this script, visit the [vm_monitoring script.](shell_scripts/vm_monitoring).  
 
 ---  
 

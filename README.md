@@ -26,7 +26,7 @@ The Python scripts can be found in the `python_scripts` folder:
   - Monitors Nginx access logs for repeated failed attempts.
   - Automatically blocks malicious IP addresses using `iptables`.
 
-For more details about this script, visit the [Python Scripts README](python_scripts/README.md).
+For more details about this script, visit the [Python Scripts README](python_scripts/readme.md).
 
 ---
 
@@ -36,7 +36,7 @@ The Shell scripts can be found in the `shell_scripts` folder:
   - Monitors CPU, memory, and disk usage.
   - Sends email alerts if usage exceeds predefined thresholds.
 
-For more details about this script, visit the [Shell Scripts README](shell_scripts/README.md).
+For more details about this script, visit the [Shell Scripts README](shell_scripts/readme.md).
 
 ---
 
